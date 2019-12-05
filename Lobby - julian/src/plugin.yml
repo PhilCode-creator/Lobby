@@ -1,0 +1,9 @@
+name: LobbySystem
+version: 1.0
+author: PhilCode
+main: de.philcode.lobby.main.Lobby
+api-version: 1.14
+
+commands:
+  SpawnSet:
+  Build:
